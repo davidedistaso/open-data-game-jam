@@ -1,0 +1,14 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Icebreaker}{15}{0}{2}
+\beamer@sectionintoc {3}{Make your badge}{17}{0}{3}
+\beamer@sectionintoc {4}{Issue brainstorming}{19}{0}{4}
+\beamer@sectionintoc {5}{Pitches}{21}{0}{5}
+\beamer@sectionintoc {6}{Group formation}{23}{0}{6}
+\beamer@sectionintoc {7}{Survey section 1}{25}{0}{7}
+\beamer@sectionintoc {8}{Brainstorming}{27}{0}{8}
+\beamer@sectionintoc {9}{Lunch break}{29}{0}{9}
+\beamer@sectionintoc {10}{Starter tutorials}{31}{0}{10}
+\beamer@sectionintoc {11}{Coding}{36}{0}{11}
+\beamer@sectionintoc {12}{Festival}{38}{0}{12}
+\beamer@sectionintoc {13}{Survey section 2}{40}{0}{13}
+\beamer@sectionintoc {14}{Winners}{42}{0}{14}

@@ -1,4 +1,11 @@
-## Why a game jam with open data
+
+![Open Data Game Jam](advertisement/banner.png)
+## Table of contents
+- [Why a game jam with open data?](why-a-game-jam-with-open-data)
+- [Expected learning outcomes](expected-learning-outcomes)
+- [Materials needed](materials-needed)
+- [Tutorials](tutorials)
+## Why a game jam with open data?
 Open data hackathons are a popular approach to incentivize the reuse of open datasets. Open data hackathons are great, you get to meet a lot of people with similar interests, and you get to build something together. The solutions developed at hackathons rarely go beyond the prototype stage, but the value of hackathons is bringing people together. Still, hackathons have been criticized for being “solutionist”. Social issues are often simplified in order to justify simple technological interventions. But not all problems can be fixed with technology. Having game jam lets us change the invitation to participants from “fixing” social issues to “expressing” social issues through games.
 
 ## Expected learning outcomes
@@ -39,4 +46,8 @@ Open data hackathons are a popular approach to incentivize the reuse of open dat
 | 17:00 | The end                                                      |
 
 ## Tutorials
-
+![alt text](images/tutorials.png)
+There are three beginner level Construct 3 tutorials. The tutorials are not meant to show best-practices, but rather how to make quickly make a prototype. The tutorials are made for teams of 4 people. Each tutorial requires a different team composition. Each tutorial also contains a link to the finished project.
+- [Visual novel](/tutorials/visual-novel.md)
+- [Platformer](/tutorials/platformer.md)
+- [Simulation](/tutorials/simulation.md)
