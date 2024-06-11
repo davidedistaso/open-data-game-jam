@@ -93,4 +93,4 @@ Start by making the following sounds:
 *   Character speaking noises
 *   Button pressed sound
 
-Once you have your sounds,, upload them  to a file sharing service like Google Drive, so that the Coders can download them.
+Once you have your sounds, upload them  to a file sharing service like Google Drive, so that the Coders can download them.
